@@ -1,0 +1,5 @@
+
+body {position: relative; width:80em; margin: 1em auto;}
+main { width: 100%; height: 40em; margin: 0 auto; border: 1px solid black; clear:both; font-family: sans-serif; position: relative;}
+#pdfWindow { float: left; width:55%; height: 95%; background-color: darkgray; margin: 1em 0 1em 1em;}
+#questionTab {float: right; margin: 0.5em 1em 1em 1em; width: 40%; height: 95%; }

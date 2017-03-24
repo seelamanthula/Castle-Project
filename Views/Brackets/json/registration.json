@@ -1,0 +1,324 @@
+{
+  "Registration": [
+    {
+      "Day": "Monday",
+      "Time": "1:40 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 1",
+      "TA_NetID": "TA123456",
+      "Class_Number": "1234"
+    },
+    {
+      "Day": "Monday",
+      "Time": "1:40 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 2",
+      "TA_NetID": "TA123457",
+      "Class_Number": "1235"
+    },
+    {
+      "Day": "Monday",
+      "Time": "1:40 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 3",
+      "TA_NetID": "TA123458",
+      "Class_Number": "1236"
+    },
+    {
+      "Day": "Monday",
+      "Time": "1:40 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 4",
+      "TA_NetID": "TA123459",
+      "Class_Number": "1237"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:45 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 5",
+      "TA_NetID": "TA123460",
+      "Class_Number": "1238"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:45 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 6",
+      "TA_NetID": "TA123461",
+      "Class_Number": "1239"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:45 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 7",
+      "TA_NetID": "TA123462",
+      "Class_Number": "1240"
+    },
+    {
+      "Day": "Monday",
+      "Time": "5:45 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 8",
+      "TA_NetID": "TA123463",
+      "Class_Number": "1241"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:50 AM",
+      "Room": "CH-140",
+      "TA_Name": "TA 9",
+      "TA_NetID": "TA123464",
+      "Class_Number": "1242"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:50 AM",
+      "Room": "CH-145",
+      "TA_Name": "TA 10",
+      "TA_NetID": "TA123465",
+      "Class_Number": "1243"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:50 AM",
+      "Room": "CH-146",
+      "TA_Name": "TA 11",
+      "TA_NetID": "TA123466",
+      "Class_Number": "1244"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "7:50 AM",
+      "Room": "CH-235",
+      "TA_Name": "TA 12",
+      "TA_NetID": "TA123467",
+      "Class_Number": "1245"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "1:15 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 13",
+      "TA_NetID": "TA123468",
+      "Class_Number": "1246"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "1:15 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 14",
+      "TA_NetID": "TA123469",
+      "Class_Number": "1247"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "1:15 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 15",
+      "TA_NetID": "TA123470",
+      "Class_Number": "1248"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "1:15 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 16",
+      "TA_NetID": "TA123471",
+      "Class_Number": "1249"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "5:45 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 17",
+      "TA_NetID": "TA123472",
+      "Class_Number": "1250"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "5:45 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 18",
+      "TA_NetID": "TA123473",
+      "Class_Number": "1251"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "5:45 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 19",
+      "TA_NetID": "TA123474",
+      "Class_Number": "1252"
+    },
+    {
+      "Day": "Tuesday",
+      "Time": "5:45 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 20",
+      "TA_NetID": "TA123475",
+      "Class_Number": "1253"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "1:40 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 21",
+      "TA_NetID": "TA123476",
+      "Class_Number": "1254"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "1:40 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 22",
+      "TA_NetID": "TA123477",
+      "Class_Number": "1255"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "1:40 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 23",
+      "TA_NetID": "TA123478",
+      "Class_Number": "1256"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "1:40 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 24",
+      "TA_NetID": "TA123479",
+      "Class_Number": "1257"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "5:45 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 25",
+      "TA_NetID": "TA123480",
+      "Class_Number": "1258"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "5:45 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 26",
+      "TA_NetID": "TA123481",
+      "Class_Number": "1259"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "5:45 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 27",
+      "TA_NetID": "TA123482",
+      "Class_Number": "1260"
+    },
+    {
+      "Day": "Wednesday",
+      "Time": "5:45 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 28",
+      "TA_NetID": "TA123483",
+      "Class_Number": "1261"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:50 AM",
+      "Room": "CH-140",
+      "TA_Name": "TA 29",
+      "TA_NetID": "TA123484",
+      "Class_Number": "1262"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:50 AM",
+      "Room": "CH-145",
+      "TA_Name": "TA 30",
+      "TA_NetID": "TA123485",
+      "Class_Number": "1263"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:50 AM",
+      "Room": "CH-146",
+      "TA_Name": "TA 31",
+      "TA_NetID": "TA123486",
+      "Class_Number": "1264"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "7:50 AM",
+      "Room": "CH-235",
+      "TA_Name": "TA 32",
+      "TA_NetID": "TA123487",
+      "Class_Number": "1265"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "1:15 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 33",
+      "TA_NetID": "TA123488",
+      "Class_Number": "1266"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "1:15 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 34",
+      "TA_NetID": "TA123489",
+      "Class_Number": "1267"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "1:15 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 35",
+      "TA_NetID": "TA123490",
+      "Class_Number": "1268"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "1:15 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 36",
+      "TA_NetID": "TA123491",
+      "Class_Number": "1269"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "5:45 PM",
+      "Room": "CH-140",
+      "TA_Name": "TA 37",
+      "TA_NetID": "TA123492",
+      "Class_Number": "1270"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "5:45 PM",
+      "Room": "CH-145",
+      "TA_Name": "TA 38",
+      "TA_NetID": "TA123493",
+      "Class_Number": "1271"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "5:45 PM",
+      "Room": "CH-146",
+      "TA_Name": "TA 39",
+      "TA_NetID": "TA123494",
+      "Class_Number": "1272"
+    },
+    {
+      "Day": "Thursday",
+      "Time": "5:45 PM",
+      "Room": "CH-235",
+      "TA_Name": "TA 40",
+      "TA_NetID": "TA123495",
+      "Class_Number": "1273"
+    }
+  ]
+}

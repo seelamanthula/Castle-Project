@@ -1,0 +1,34 @@
+{
+    "netid":"hs121432",
+    "firstname":"Harish",
+    "publishedExperiments":[
+        {
+            "Name":"xxxxx",
+            "expid":"1234",
+            "assessmentScore":"20",
+            "prelabScore":"30",
+            "dueDate":"21/20/2017"
+        },
+        {
+            "Name":"yyyyy",
+            "expid":"1234",
+            "assessmentScore":"20",
+            "prelabScore":"30",
+            "dueDate":"03/22/2017"
+        },
+        {
+            "Name":"zzzzz",
+            "expid":"1234",
+            "assessmentScore":"20",
+            "prelabScore":"30",
+            "dueDate":"04/25/2017"
+        },
+        {
+            "Name":"aaaaa",
+            "expid":"1234",            
+            "assessmentScore":"20",
+            "prelabScore":"30",
+            "dueDate":"05/28/2017"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "netid":"hs234",
+    "expName":"aaaaa",
+    "expId":"12345",
+    "type":"Assessment",
+    "modules":[
+        {
+            "moduleName":"mmm111",
+            "moduleId":"2536",
+            "moduleScore":10
+        },
+        {
+            "moduleName":"mmm222",
+            "moduleId":"2536",            
+            "moduleScore":10
+        },
+        {
+            "moduleName":"mmm333",
+            "moduleId":"2536",            
+            "moduleScore":10
+        },
+        {
+            "moduleName":"mmm444",
+            "moduleId":"2536",            
+            "moduleScore":10
+        }        
+    ]
+}

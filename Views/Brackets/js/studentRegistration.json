@@ -1,0 +1,312 @@
+[
+  {
+    "day": "Monday",
+    "dayDetails": [
+      {
+        "time": "1:40 PM",
+        "details": [
+          {
+            "classNo": "1234",
+            "taName": "TA 1",
+            "taNetId": "TA123456",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1235",
+            "taName": "TA 2",
+            "taNetId": "TA123457",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1236",
+            "taName": "TA 3",
+            "taNetId": "TA123458",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1237",
+            "taName": "TA 4",
+            "taNetId": "TA123459",
+            "room": "CH-235"
+          }
+        ]
+      },
+      {
+        "time": "5:45 PM",
+        "details": [
+          {
+            "classNo": "1238",
+            "taName": "TA 5",
+            "taNetId": "TA123460",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1239",
+            "taName": "TA 6",
+            "taNetId": "TA123461",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1240",
+            "taName": "TA 7",
+            "taNetId": "TA123462",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1241",
+            "taName": "TA 8",
+            "taNetId": "TA123463",
+            "room": "CH-235"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "dayDetails": [
+      {
+        "time": "1:15 PM",
+        "details": [
+          {
+            "classNo": "1266",
+            "taName": "TA 33",
+            "taNetId": "TA123488",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1267",
+            "taName": "TA 34",
+            "taNetId": "TA123489",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1268",
+            "taName": "TA 35",
+            "taNetId": "TA123490",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1269",
+            "taName": "TA 36",
+            "taNetId": "TA123491",
+            "room": "CH-235"
+          }
+        ]
+      },
+      {
+        "time": "7:50 AM",
+        "details": [
+          {
+            "classNo": "1262",
+            "taName": "TA 29",
+            "taNetId": "TA123484",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1263",
+            "taName": "TA 30",
+            "taNetId": "TA123485",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1264",
+            "taName": "TA 31",
+            "taNetId": "TA123486",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1265",
+            "taName": "TA 32",
+            "taNetId": "TA123487",
+            "room": "CH-235"
+          }
+        ]
+      },
+      {
+        "time": "5:45 PM",
+        "details": [
+          {
+            "classNo": "1270",
+            "taName": "TA 37",
+            "taNetId": "TA123492",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1271",
+            "taName": "TA 38",
+            "taNetId": "TA123493",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1272",
+            "taName": "TA 39",
+            "taNetId": "TA123494",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1273",
+            "taName": "TA 40",
+            "taNetId": "TA123495",
+            "room": "CH-235"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "dayDetails": [
+      {
+        "time": "1:40 PM",
+        "details": [
+          {
+            "classNo": "1254",
+            "taName": "TA 21",
+            "taNetId": "TA123476",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1255",
+            "taName": "TA 22",
+            "taNetId": "TA123477",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1256",
+            "taName": "TA 23",
+            "taNetId": "TA123478",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1257",
+            "taName": "TA 24",
+            "taNetId": "TA123479",
+            "room": "CH-235"
+          }
+        ]
+      },
+      {
+        "time": "5:45 PM",
+        "details": [
+          {
+            "classNo": "1258",
+            "taName": "TA 25",
+            "taNetId": "TA123480",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1259",
+            "taName": "TA 26",
+            "taNetId": "TA123481",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1260",
+            "taName": "TA 27",
+            "taNetId": "TA123482",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1261",
+            "taName": "TA 28",
+            "taNetId": "TA123483",
+            "room": "CH-235"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "dayDetails": [
+      {
+        "time": "1:15 PM",
+        "details": [
+          {
+            "classNo": "1246",
+            "taName": "TA 13",
+            "taNetId": "TA123468",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1247",
+            "taName": "TA 14",
+            "taNetId": "TA123469",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1248",
+            "taName": "TA 15",
+            "taNetId": "TA123470",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1249",
+            "taName": "TA 16",
+            "taNetId": "TA123471",
+            "room": "CH-235"
+          }
+        ]
+      },
+      {
+        "time": "7:50 AM",
+        "details": [
+          {
+            "classNo": "1242",
+            "taName": "TA 9",
+            "taNetId": "TA123464",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1243",
+            "taName": "TA 10",
+            "taNetId": "TA123465",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1244",
+            "taName": "TA 11",
+            "taNetId": "TA123466",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1245",
+            "taName": "TA 12",
+            "taNetId": "TA123467",
+            "room": "CH-235"
+          }
+        ]
+      },
+      {
+        "time": "5:45 PM",
+        "details": [
+          {
+            "classNo": "1250",
+            "taName": "TA 17",
+            "taNetId": "TA123472",
+            "room": "CH-140"
+          },
+          {
+            "classNo": "1251",
+            "taName": "TA 18",
+            "taNetId": "TA123473",
+            "room": "CH-145"
+          },
+          {
+            "classNo": "1252",
+            "taName": "TA 19",
+            "taNetId": "TA123474",
+            "room": "CH-146"
+          },
+          {
+            "classNo": "1253",
+            "taName": "TA 20",
+            "taNetId": "TA123475",
+            "room": "CH-235"
+          }
+        ]
+      }
+    ]
+  }
+]

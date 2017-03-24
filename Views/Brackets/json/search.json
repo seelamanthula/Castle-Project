@@ -1,0 +1,286 @@
+[
+  {
+    "NetID": "AB1234",
+    "FirstName": "Aaaaa",
+    "LastName": "Bbbbbb",
+    "TAName": "TA 1",
+    "ClassNumber": "1234",
+    "LabDay": "Wednesday",
+    "LabTime": "1:40 PM",
+    "ExperimentLists": [
+      {
+        "ExperimentName": "Volumetric Glass",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 2",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 3",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NetID": "BC2345",
+    "FirstName": "Bbbbbb",
+    "LastName": "Cccccc",
+    "TAName": "TA 1",
+    "ClassNumber": "1234",
+    "LabDay": "Wednesday",
+    "LabTime": "1:40 PM",
+    "ExperimentLists": [
+      {
+        "ExperimentName": "Volumetric Glass",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 2",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 3",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NetID": "CD3456",
+    "FirstName": "Cccccc",
+    "LastName": "Ddddd",
+    "TAName": "TA 1",
+    "ClassNumber": "1234",
+    "LabDay": "Wednesday",
+    "LabTime": "1:40 PM",
+    "ExperimentLists": [
+      {
+        "ExperimentName": "Volumetric Glass",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 2",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 3",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NetID": "DE4567",
+    "FirstName": "Ddddd",
+    "LastName": "Eeeeee",
+    "TAName": "TA 1",
+    "ClassNumber": "1234",
+    "LabDay": "Wednesday",
+    "LabTime": "1:40 PM",
+    "ExperimentLists": [
+      {
+        "ExperimentName": "Volumetric Glass",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 2",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      },
+      {
+        "ExperimentName": "Experiment 3",
+        "Modules": [
+          {
+            "ModuleName": "XXXXXX",
+            "AssessmentScore": "30",
+            "PrelabScore": "notgraded"
+          },
+          {
+            "ModuleName": "YYYYYY",
+            "AssessmentScore": "50",
+            "PrelabScore": "50"
+          },
+          {
+            "ModuleName": "ZZZZZZ",
+            "AssessmentScore": "40",
+            "PrelabScore": "50"
+          }
+        ]
+      }
+    ]
+  }
+]
