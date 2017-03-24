@@ -1,0 +1,156 @@
+.main-margin {
+    margin: 0 auto;
+    width: 900px;
+  
+    font-family: "Helvetica", Times, serif;
+}
+
+.ul-list, .ul-list ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.ul-list  > li{
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+
+.ca-files {   
+	    opacity: 0;
+   /*  display: none; */
+}
+
+.float-left {
+    float: left;
+}
+
+.center-table {
+    width: 20em;
+    margin: 10% auto;
+}
+
+.float-right {
+    float: right;
+}
+
+.btn-hover:hover, #lr-errors, .c-errors {
+    color: red;
+}
+
+#lr-success {
+	color: green;
+}
+
+.c-msgs {
+    color:green;
+}
+
+.btn-mod-remove:hover {
+    size: 25px;
+}
+
+.space-10 {
+    margin: 10px;
+}
+
+.margin-top {
+    margin-top: 30px;
+}
+.module-accordion button {
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+.ne-errors p {
+    color: red;
+}
+
+.module-header {  
+line-height: 15px;   /*Header Box height*/
+font-size: 13px;     /*Header Text size*/
+text-indent: 10px;}  /*Not quite sure about this one*/
+
+
+.head-pad {
+    padding: 5px 5px 5px 5px;
+}
+
+.disp-inline > li{
+    display: inline-block;
+}
+
+.box-size {
+    width: 98%;
+    height: 40px;
+    font-size: 50px;
+    border-radius: 5px;
+}
+
+/*
+.experi-box-size {
+    width: 98%;
+    height: 30px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+*/
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.t-align-center {
+    text-align: center;
+}
+
+.table-left td, th {
+    text-align:center; 
+    vertical-align:middle;
+}
+}
+
+textarea {
+    width:100%;
+height:100px; 
+box-sizing: border-box;         /* For IE and modern versions of Chrome */
+-moz-box-sizing: border-box;    /* For Firefox                          */
+-webkit-box-sizing: border-box;
+}
+
+@font-face{
+    font-family:'Glyphicons Halflings';
+    src:url(../fonts/glyphicons-halflings-regular.eot);
+}
+
+.in-btn{
+
+/*    background: transparent;
+    border: none !important;
+    font-size:0;*/
+    visibility: hidden;
+}
+
+.login-tfield {
+ 
+    height: 50px;
+}
+
+.login-tfield-disp-hide {
+    display: none;
+}
+
+
+footer {
+/*	background-color : #7FFF00;*/
+	margin-top:10px;
+	 background-color : #009933;
+    height: 30px;
+    color: white;
+}

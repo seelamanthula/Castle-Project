@@ -1,0 +1,76 @@
+.gc-table {
+    table-layout: fixed;
+}
+
+.button3 {width: 80%;
+   background-color: Transparent;
+     background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.button3:hover {
+    background-color: #90EE90;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+/*
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+*/
+
+#mod-table table {
+    border: 1px solid black;
+}
+
+.td-width {
+    width: 7em;
+}
+
+#mod-table td {
+    padding: 10px;
+    text-align: center;
+    word-wrap:normal;
+}
+
+textarea .tc-width {
+    width: 15em;
+}
+
+.float-right {
+    float: right;
+}
+
+.bottom-margin {
+    margin-bottom: 1cm;    
+}
+
+.top-margin {
+    margin-top: 1cm;
+}
+
+/* Scroll for GC table */
+ #grade-container {
+  position:relative;
+   overflow:auto;  
+}
+#gcTable {
+  height:150px;
+  overflow:auto;  
+  margin-top:20px;
+}
+
+#grade-container table thead th .text {
+  position:absolute;   
+  top:-20px;
+  z-index:2;
+  height:20px;
+  width:35%;
+  border:1px solid red;
+} 
