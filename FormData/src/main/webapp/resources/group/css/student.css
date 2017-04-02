@@ -1,0 +1,74 @@
+.status-table {
+
+    margin:0 auto;
+}
+
+.module-width {
+        width:50%;
+}
+
+.border-draw {
+    border: 1px solid black;
+}
+
+.th-align th, #status-body, #module-body td  
+{
+    text-align:center; 
+    vertical-align:middle;
+}
+
+/* Assessment */
+/* #pdf-container, #question-container {
+    border: 1px solid red;
+} */
+
+.pdf-div {
+    background: black;
+}
+
+
+.hint-div {
+    background: white;
+}
+
+.ui-tabs .ui-tabs-nav
+{
+background: black;
+}
+
+.pdf-border {
+    border-radius: 5em;
+}
+.nav-block li {
+    display:inline;
+    list-style-type: none;
+}
+
+.bottom-margin {
+    margin-bottom: 1cm;
+    
+}
+
+.bottom-margin-0.5 {
+    margin-bottom: 1cm;
+    
+}
+
+.top-margin {
+    margin-top: 1cm;
+    
+}
+
+.display-hide {
+    visibility: hidden;
+}
+
+.prelab-tarea-color {
+    background: #F8F8FF;
+}
+
+ul {
+    list-style-type: none;
+     padding: 0;       
+}
+
