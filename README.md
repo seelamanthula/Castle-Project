@@ -7,3 +7,5 @@ the metrics of the experiments accurately. This helps to balance of the chemical
 The readings can be monitored by the lab technician. 
 
 Gathered requirements, designed and developed it from scratch which is currently live.
+
+Find the sample user stories in the above attached PDF: CASTLE Experiment Example - Introduction to Acid-Base Titration.pdf
